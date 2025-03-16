@@ -71,7 +71,7 @@ CREATE TABLE Comics (
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/excelsior.git
+   git clone https://github.com/maddy333/SQL_DB
    ```
 2. Navigate to the project directory:
    ```bash
